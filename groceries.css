@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+}
+
+.list-canned,
+.list-dry,
+.images {
+  display: inline-block;
+  background-color: darkkhaki;
+  width: 175px;
+  height: 175px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  vertical-align: bottom;
+  border: 3px solid black;
+  text-align: left;
+}
+
+.list-fruit,
+.list-snacks {
+  display: inline-block;
+  background-color: darkkhaki;
+  width: 175px;
+  height: 175px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: 3px solid black;
+  text-align: left;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  color: brown;
+}
+
+#title {
+  background-color: grey;
+  text-align: center;
+  margin-left: 300;
+  margin-right: 300;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
